@@ -27,3 +27,8 @@ six>=1.14
 joblib
 memoized-property
 termcolor
+
+#Colleagues packages
+git+https://github.com/bermicha/bermicha1
+git+https://github.com/hozefazs/shout
+git+https://github.com/gabisilvano/gsproject
